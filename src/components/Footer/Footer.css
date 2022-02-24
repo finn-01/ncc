@@ -1,0 +1,17 @@
+.footer__container {
+	position: relative;
+	bottom: 0;
+	right: 0;
+}
+.footer__container p {
+	position: relative;
+}
+
+.footer__container div {
+	position: absolute;
+	height: 1px;
+	top: -10px;
+	left: -157px;
+	width: 270vh;
+	background-color: rgb(94, 93, 92);
+}
